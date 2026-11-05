@@ -1,0 +1,15 @@
+{
+  "repository": "module-ecommerce-seller-marketplace-dart-mobile",
+  "capabilityKey": "planned:ecommerce:seller-marketplace",
+  "presentation": "dart-mobile",
+  "package": "module_ecommerce_seller_marketplace_dart_mobile",
+  "foundation": "module-boilerplate-dart-mobile",
+  "foundationCommit": "0656c212b36ef4f8ffd6fc74db4ac541268e7d31",
+  "canonicalPlan": "projects/ecommerce/nextjs/seller-marketplace.md",
+  "presentationPlan": "projects/ecommerce/features/seller-marketplace.md",
+  "identityReviewRequired": false,
+  "status": "skeleton",
+  "documentedConsumerScopes": [
+    "ecommerce"
+  ]
+}
